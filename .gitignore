@@ -16,3 +16,6 @@ frontend/yarn-error.log*
 backend/venv
 backend/backend/backend/local_settings.py
 backend/backend/backend/__pycache__
+backend/backend/db.sqlite3
+backend/backend/portfolio/migrations
+backend/backend/portfolio/__pycache__
