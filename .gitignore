@@ -16,4 +16,3 @@ frontend/yarn-error.log*
 backend/venv
 backend/backend/backend/local_settings.py
 backend/backend/backend/__pycache__
-
