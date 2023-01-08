@@ -19,3 +19,6 @@ backend/backend/backend/__pycache__
 backend/backend/db.sqlite3
 backend/backend/portfolio/migrations
 backend/backend/portfolio/__pycache__
+backend/backend/icon
+backend/backend/projects
+backend/backend/account
